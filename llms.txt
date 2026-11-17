@@ -1,6 +1,6 @@
 # S M Moshiur Rahman: AWS Consultant (Dhaka, Bangladesh)
 
-> AWS Certified Solutions Architect and cloud consultant, open to work. Services: AWS cost optimization (FinOps), AWS migration, DevOps and Infrastructure as Code, AWS security and architecture review. Founder of TICON SYSTEM LIMITED.
+> AWS FinOps and cloud consultant and founder of TICON SYSTEM LIMITED. AWS Partner accredited (Business and Technical). Services: AWS cost optimization (FinOps), AWS migration, DevOps and Infrastructure as Code, AWS security and architecture review. Founder of TICON SYSTEM LIMITED.
 
 ## Contact
 - WhatsApp: +880 1777-174791 (https://wa.me/8801777174791)
